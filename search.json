@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "presentations/sputtering_nucleation.html#nucleation-title",
+    "href": "presentations/sputtering_nucleation.html#nucleation-title",
+    "title": "Presentations",
+    "section": "",
+    "text": "Nucleacion de Nanoparticulas\n\n\nOrlando Dolores Morales"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#teoria-clasica-de-nucleacion-cnt",
+    "href": "presentations/sputtering_nucleation.html#teoria-clasica-de-nucleacion-cnt",
+    "title": "Presentations",
+    "section": "Teoria Clasica de Nucleacion (CNT)",
+    "text": "Teoria Clasica de Nucleacion (CNT)\nDescripcion cuantitativa de como se forma nucleos:\n\\[\n\\Delta G = -\\frac{4\\pi r^3}{3} (\\frac{\\Delta \\mu}{v_m}) + 4\\pi r^2 \\alpha\n\\]\nSuposiciones:\n\nEsfera con tension superficial “plana”\nEstable despues de formarse"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#non-classical-nucleation-theory",
+    "href": "presentations/sputtering_nucleation.html#non-classical-nucleation-theory",
+    "title": "Presentations",
+    "section": "Non Classical Nucleation Theory",
+    "text": "Non Classical Nucleation Theory\n\nPuede que no sea esfera para menos de 100 moleculas\nExistencia de fases intermedias"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#factores",
+    "href": "presentations/sputtering_nucleation.html#factores",
+    "title": "Presentations",
+    "section": "Factores",
+    "text": "Factores\nFactores que principalmente afectan la nucleacion:\n\nTermodinamico: barrera de potencial\nCinetico: energia termica\nGeometria de los enlaces"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#nanoparticulas-por-sputtering",
+    "href": "presentations/sputtering_nucleation.html#nanoparticulas-por-sputtering",
+    "title": "Presentations",
+    "section": "Nanoparticulas por Sputtering",
+    "text": "Nanoparticulas por Sputtering\nDe acuerdo a Shelemin & Pleskunov et.al.:"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#evolucion-del-diametro",
+    "href": "presentations/sputtering_nucleation.html#evolucion-del-diametro",
+    "title": "Presentations",
+    "section": "Evolucion del diametro",
+    "text": "Evolucion del diametro\n\n\nObservamos:\n\nLas NPs incrementan su diametro igualmente rapido a cualquier \\(x\\)\nSu crecimiento no es limitado por la presion de vapor de Ag"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#estado-transitorio",
+    "href": "presentations/sputtering_nucleation.html#estado-transitorio",
+    "title": "Presentations",
+    "section": "Estado transitorio",
+    "text": "Estado transitorio"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#estado-estacionario",
+    "href": "presentations/sputtering_nucleation.html#estado-estacionario",
+    "title": "Presentations",
+    "section": "Estado estacionario",
+    "text": "Estado estacionario"
+  },
+  {
+    "objectID": "presentations/sputtering_nucleation.html#balanceo-de-fuerzas",
+    "href": "presentations/sputtering_nucleation.html#balanceo-de-fuerzas",
+    "title": "Presentations",
+    "section": "Balanceo de Fuerzas",
+    "text": "Balanceo de Fuerzas"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slides\nSome presentations made with Quarto using reveal.js:\n\nSAF Skyrmions simulations"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
+    "href": "presentations/saf_skyrmions.html#initial-configuration",
+    "title": "Presentations",
+    "section": "Initial Configuration",
+    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#magnetisation",
+    "href": "presentations/saf_skyrmions.html#magnetisation",
+    "title": "Presentations",
+    "section": "Magnetisation",
+    "text": "Magnetisation\n\nInitial state for the magnetisation"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#skyrmions",
+    "href": "presentations/saf_skyrmions.html#skyrmions",
+    "title": "Presentations",
+    "section": "Skyrmions",
+    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#simulations",
+    "href": "presentations/saf_skyrmions.html#simulations",
+    "title": "Presentations",
+    "section": "Simulations",
+    "text": "Simulations\nThe initial simulation can be found here"
+  }
+]
