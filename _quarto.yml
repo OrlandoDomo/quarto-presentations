@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Presentations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: Presentations
+        menu:
+          - presentations/saf_skyrmions.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

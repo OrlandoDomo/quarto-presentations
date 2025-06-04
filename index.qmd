@@ -1,0 +1,8 @@
+---
+title: "Presentations"
+---
+# Slides
+
+Some presentations made with Quarto using reveal.js:
+
+- SAF Skyrmions simulations

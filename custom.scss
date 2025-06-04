@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+$presentation-title-slide-text-align: "left";
+
+/*-- scss:rules --*/
+
+.reveal .custom-title {
+  font-size: 3em;
+  position: absolute; 
+  left: 20px; 
+  top: 20px
+}
+
+.reveal .custom-subtitle {
+  font-size: 1.2em;
+  position: absolute; 
+  left: 20px; 
+  top: 200px
+}
+
+.reveal .custom-author {
+  text-align: right;
+  font-size: 1.1em;
+  right: 0px; 
+  bottom: 40px;
+  line-height: 1.5em;
+}

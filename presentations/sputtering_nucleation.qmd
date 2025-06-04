@@ -1,0 +1,93 @@
+---
+tile: "Nucleation of nanoparticles"
+author: "Orlando Dolores Morales"
+institute: "Universidad Nacional de Ingenieria"
+format:
+ revealjs:
+  theme: [dracula, ../custom.scss]
+  embed-resources: true
+  height: 1080
+  width: 1920
+  scrollable: true
+  smaller: true
+---
+
+## {#nucleation-title data-menu-title="Intro"}
+
+::: {style="font-size: 4em; text-align: center"}
+**Nucleacion de Nanoparticulas**
+:::
+
+::: {style="font-size: 2em; text-align: center"}
+Orlando Dolores Morales
+:::
+
+<br>
+
+![](../figs/cnt_intro.png){fig-align="center" width=80%}
+
+## Teoria Clasica de Nucleacion (CNT)
+Descripcion cuantitativa de como se forma nucleos:
+
+$$
+ \Delta G = -\frac{4\pi r^3}{3} (\frac{\Delta \mu}{v_m}) + 4\pi r^2 \alpha
+$$
+
+Suposiciones:
+
+1. Esfera con tension superficial "plana"
+2. Estable despues de formarse
+
+![](../figs/cnt.png){fig-align="center"}
+
+## Non Classical Nucleation Theory
+
+- Puede que no sea esfera para menos de 100 moleculas
+- Existencia de fases intermedias
+
+![](../figs/ncnt.png)
+
+## Factores 
+Factores que principalmente afectan la nucleacion:
+
+- Termodinamico: barrera de potencial
+- Cinetico: energia termica
+- Geometria de los enlaces
+
+![](../figs/excess_energy_ncnt.png){fig-align="center"}
+
+
+## Nanoparticulas por Sputtering
+
+De acuerdo a [Shelemin & Pleskunov et.al.](https://doi.org/10.1002/ppsc.201900436):
+
+![](../figs/sputtering_np.png){fig-align="center"}
+
+## Evolucion del diametro
+
+::: {.columns}
+
+::: {.column width="30%"}
+Observamos:
+
+- Las NPs incrementan su diametro igualmente rapido a cualquier $x$
+- Su crecimiento no es limitado por la presion de vapor de Ag
+:::
+
+::: {.column width="70%"}
+![](../figs/sputtering_nps_d.png){fig-align="center" width=55%}
+:::
+:::
+
+## Estado transitorio
+
+![](../figs/sputtering_nps_transit.png){fig-align="center" width=55%}
+
+## Estado estacionario
+
+![](../figs/sputtering_nps_steady.png){fig-align="center" width=55%}
+
+## Balanceo de Fuerzas
+
+![](../figs/sputtering_nps_forces.png){fig-align="center" width=55%}
+

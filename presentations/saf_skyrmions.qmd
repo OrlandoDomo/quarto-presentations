@@ -1,0 +1,45 @@
+---
+tile: "SAF Skyrmions"
+author: "Orlando Dolores Morales"
+format:
+ revealjs:
+  theme: moon
+  embed-resources: true
+  height: 900
+  width: 1600
+  scrollable: true
+  smaller: true
+---
+
+## Initial Configuration
+
+::: {style="font-size: 0.5em; text-align: left"}
+Initial mesh configuration for the SAF structure.
+
+- $D = 300$ nm
+
+![](https://raw.githubusercontent.com/OrlandoDomo/micromagnetics/refs/heads/main/images/notebooks/mesh_subregions.png){width=50%}
+
+:::
+
+## Magnetisation
+
+::: {style="font-size: 0.8em; text-align: left"}
+Initial state for the magnetisation
+
+![](https://github.com/OrlandoDomo/micromagnetics/blob/main/images/notebooks/mcut_init.png?raw=true){width=90%}
+
+:::
+
+## Skyrmions
+
+::: {style="font-size: 0.8em; text-align: center"}
+After simulating we obtain the skyrmion
+
+![](https://github.com/OrlandoDomo/micromagnetics/blob/main/images/notebooks/skyrmion.png?raw=true){width=70%}
+
+:::
+
+## Simulations
+
+The initial simulation can be found [here](https://orlandodomo.github.io/micromagnetics/saf-skyrmion)
