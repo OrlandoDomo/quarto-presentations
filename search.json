@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
+    "href": "presentations/saf_skyrmions.html#initial-configuration",
+    "title": "Presentations",
+    "section": "Initial Configuration",
+    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#magnetisation",
+    "href": "presentations/saf_skyrmions.html#magnetisation",
+    "title": "Presentations",
+    "section": "Magnetisation",
+    "text": "Magnetisation\n\nInitial state for the magnetisation"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#skyrmions",
+    "href": "presentations/saf_skyrmions.html#skyrmions",
+    "title": "Presentations",
+    "section": "Skyrmions",
+    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#simulations",
+    "href": "presentations/saf_skyrmions.html#simulations",
+    "title": "Presentations",
+    "section": "Simulations",
+    "text": "Simulations\nThe initial simulation can be found here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slides\nSome presentations made with Quarto using reveal.js:\n\nSAF Skyrmions simulations"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "presentations/sputtering_nucleation.html#nucleation-title",
     "href": "presentations/sputtering_nucleation.html#nucleation-title",
     "title": "Presentations",
@@ -61,47 +103,5 @@
     "title": "Presentations",
     "section": "Balanceo de Fuerzas",
     "text": "Balanceo de Fuerzas"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slides\nSome presentations made with Quarto using reveal.js:\n\nSAF Skyrmions simulations"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
-    "href": "presentations/saf_skyrmions.html#initial-configuration",
-    "title": "Presentations",
-    "section": "Initial Configuration",
-    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#magnetisation",
-    "href": "presentations/saf_skyrmions.html#magnetisation",
-    "title": "Presentations",
-    "section": "Magnetisation",
-    "text": "Magnetisation\n\nInitial state for the magnetisation"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#skyrmions",
-    "href": "presentations/saf_skyrmions.html#skyrmions",
-    "title": "Presentations",
-    "section": "Skyrmions",
-    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#simulations",
-    "href": "presentations/saf_skyrmions.html#simulations",
-    "title": "Presentations",
-    "section": "Simulations",
-    "text": "Simulations\nThe initial simulation can be found here"
   }
 ]
