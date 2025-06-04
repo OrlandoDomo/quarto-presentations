@@ -11,6 +11,7 @@ website:
       - text: Presentations
         menu:
           - presentations/saf_skyrmions.qmd
+          - presentations/sputtering_nucleation.qmd
 
 format:
   html:
