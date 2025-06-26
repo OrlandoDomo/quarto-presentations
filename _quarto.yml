@@ -12,6 +12,7 @@ website:
         menu:
           - presentations/saf_skyrmions.qmd
           - presentations/sputtering_nucleation.qmd
+          - presentations/quesnel_nucleation.qmd
 
 format:
   html:

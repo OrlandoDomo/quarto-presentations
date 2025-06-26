@@ -1,0 +1,144 @@
+---
+tile: "Theorethical model NPs nucleation"
+author: "Orlando Dolores Morales"
+institute: "Universidad Nacional de Ingenieria"
+format:
+ revealjs:
+  theme: [dracula, ../custom.scss]
+  embed-resources: true
+  scrollable: true
+  smaller: true
+---
+
+## {#nucleation-title data-menu-title="Intro"}
+
+::: {style="font-size: 4em; text-align: center"}
+**Nucleacion de Nanoparticulas**
+:::
+
+::: {style="font-size: 2em; text-align: center"}
+Orlando Dolores Morales
+:::
+
+<br>
+
+![](../figs/cnt_intro.png){fig-align="center" width=80%}
+
+## Teoria Clasica de Nucleacion (CNT)
+Descripcion cuantitativa de como se forma nucleos:
+
+$$
+ \Delta G = E_s + E_v = 4\pi r^2 \sigma_s - \frac{4\pi r^3}{3} \Delta \mu
+$$
+
+donde:
+ 
+- $\sigma_s$: tension superficial
+- $\mu$: entalpia
+
+
+## Entalpia
+
+$$
+  \Delta \mu = k T \ln{\frac{P}{P_s}}
+$$
+
+Normalmente:
+$$
+  P_s = -a T^{-1} - b \log{T} + c
+$$
+
+El modelo asume: Superenfriamiento del vapor de Cu
+
+## Relacion de Clapeyron
+
+Relacion para determinar la presion de vapor a una temperatura $T$:
+$$
+  \ln\frac{P_1}{P_2} = \frac{H_T}{R}\left(\frac{1}{T_1} - \frac{1}{T_2}\right)
+$$
+
+Luego: 
+
+$$
+  \Delta \mu = k T \ln{\frac{P}{P_s}} = \frac{H_T}{N_A}\left(1 - \frac{T}{T_{vap}}\right)
+$$
+
+- $H_T$: Entalpia de vaporizacion
+
+## Radio Critico y tasa de nucleacion
+
+$$
+  r^* = \frac{2 \sigma_s}{\rho |\Delta \mu|}
+$$
+
+Relacionado con la tasa de nucleaion
+
+$$
+  \varphi = \kappa \alpha^* \times N^*
+$$
+
+- $N^*$: Densidad de nucleos
+- $\alpha^*$: Tasa de captura de 1 atomo
+
+## Tasa de nucleacion
+
+$$
+  N^* = N_{Cu} \exp{-\Delta G(r^*)/kT}
+$$
+
+donde:
+
+- $\Delta G(r^*) = \frac{4 \pi r^{*2} \sigma_s}{3}$
+- $\alpha^* = 4\pi r^{*2} \frac{P_{Cu}}{\sqrt{2\pi mkT}}$
+- $\kappa = \sqrt{\frac{\Delta\mu}{6\pi kTr^*}}$
+quedando la tasa de nucleacion como:
+
+$$
+  \varphi(T) = \left(\frac{P_{Cu}}{kT}\right)^2 \left(\frac{2 \sigma_s^{1/2}}{\rho \sqrt{2\pi m_{Cu}}}\right) \exp\left[\frac{-16\pi\sigma_s^3}{3\rho^2 k^3 T^3 \left(\ln{\frac{P}{P_s}}\right)^2}\right]
+$$
+
+## Perfil de temperatura
+
+$$
+  N(x) = t(x) [T(x)]
+$$
+
+![](../figs/tx.png){fig-align="center" width=100%}
+
+## Crecimiento de NPs
+
+Consideraciones:
+
+- Colisiones sucesivas
+- Absorcion de solo atomos
+- Probabilidad de absorcion 100%
+
+Tasa de probabilidad de interaccion:
+$$
+  A_n = \pi r_s^2 N_{Cu} \left(\frac{8kT}{\pi m_{Cu}}\right)^{1/2} n^{1/6}
+$$
+
+## Distribucion
+
+$$
+\begin{align*}
+  \frac{dP_0(t)}{dt} = -A_0(t) P_0(t) \\
+  \frac{dP_1(t)}{dt} = A_0(t) P_0(t) - A_1(t) P_1(t) \\
+  \frac{dP_n(t)}{dt} = A_{n-1}(t) P_{n-1}(t) - A_nP_n(t) \\
+\end{align*}
+$$
+
+Condiciones iniciales:
+
+- $P_0(0)=1$
+- $P_n(0)=0$ para $n>0$
+
+Solucion, distribucion de Poisson
+$$
+  P_n(t) = \left(\frac{1}{n!}\right) (A_0 t)^n e^{-A_0 t}
+$$
+
+## Experimento vs Teorico
+
+![](../figs/nx.png){fig-align="center" width=100%}
+
