@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
-    "href": "presentations/saf_skyrmions.html#initial-configuration",
-    "title": "Presentations",
-    "section": "Initial Configuration",
-    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#magnetisation",
-    "href": "presentations/saf_skyrmions.html#magnetisation",
-    "title": "Presentations",
-    "section": "Magnetisation",
-    "text": "Magnetisation\n\nInitial state for the magnetisation"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#skyrmions",
-    "href": "presentations/saf_skyrmions.html#skyrmions",
-    "title": "Presentations",
-    "section": "Skyrmions",
-    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#simulations",
-    "href": "presentations/saf_skyrmions.html#simulations",
-    "title": "Presentations",
-    "section": "Simulations",
-    "text": "Simulations\nThe initial simulation can be found here"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Presentations",
     "section": "",
     "text": "Slides\nSome presentations made with Quarto using reveal.js:\n\nSAF Skyrmions simulations"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "presentations/sputtering_nucleation.html#nucleation-title",
@@ -103,5 +68,110 @@
     "title": "Presentations",
     "section": "Balanceo de Fuerzas",
     "text": "Balanceo de Fuerzas"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
+    "href": "presentations/saf_skyrmions.html#initial-configuration",
+    "title": "Presentations",
+    "section": "Initial Configuration",
+    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#magnetisation",
+    "href": "presentations/saf_skyrmions.html#magnetisation",
+    "title": "Presentations",
+    "section": "Magnetisation",
+    "text": "Magnetisation\n\nInitial state for the magnetisation"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#skyrmions",
+    "href": "presentations/saf_skyrmions.html#skyrmions",
+    "title": "Presentations",
+    "section": "Skyrmions",
+    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#simulations",
+    "href": "presentations/saf_skyrmions.html#simulations",
+    "title": "Presentations",
+    "section": "Simulations",
+    "text": "Simulations\nThe initial simulation can be found here"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#nucleation-title",
+    "href": "presentations/quesnel_nucleation.html#nucleation-title",
+    "title": "Presentations",
+    "section": "",
+    "text": "Nucleacion de Nanoparticulas\n\n\nOrlando Dolores Morales"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#teoria-clasica-de-nucleacion-cnt",
+    "href": "presentations/quesnel_nucleation.html#teoria-clasica-de-nucleacion-cnt",
+    "title": "Presentations",
+    "section": "Teoria Clasica de Nucleacion (CNT)",
+    "text": "Teoria Clasica de Nucleacion (CNT)\nDescripcion cuantitativa de como se forma nucleos:\n\\[\n\\Delta G = E_s + E_v = 4\\pi r^2 \\sigma_s - \\frac{4\\pi r^3}{3} \\Delta \\mu\n\\]\ndonde:\n\n\\(\\sigma_s\\): tension superficial\n\\(\\mu\\): entalpia"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#entalpia",
+    "href": "presentations/quesnel_nucleation.html#entalpia",
+    "title": "Presentations",
+    "section": "Entalpia",
+    "text": "Entalpia\n\\[\n  \\Delta \\mu = k T \\ln{\\frac{P}{P_s}}\n\\]\nNormalmente: \\[\n  P_s = -a T^{-1} - b \\log{T} + c\n\\]\nEl modelo asume: Superenfriamiento del vapor de Cu"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#relacion-de-clapeyron",
+    "href": "presentations/quesnel_nucleation.html#relacion-de-clapeyron",
+    "title": "Presentations",
+    "section": "Relacion de Clapeyron",
+    "text": "Relacion de Clapeyron\nRelacion para determinar la presion de vapor a una temperatura \\(T\\): \\[\n  \\ln\\frac{P_1}{P_2} = \\frac{H_T}{R}\\left(\\frac{1}{T_1} - \\frac{1}{T_2}\\right)\n\\]\nLuego:\n\\[\n  \\Delta \\mu = k T \\ln{\\frac{P}{P_s}} = \\frac{H_T}{N_A}\\left(1 - \\frac{T}{T_{vap}}\\right)\n\\]\n\n\\(H_T\\): Entalpia de vaporizacion"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#radio-critico-y-tasa-de-nucleacion",
+    "href": "presentations/quesnel_nucleation.html#radio-critico-y-tasa-de-nucleacion",
+    "title": "Presentations",
+    "section": "Radio Critico y tasa de nucleacion",
+    "text": "Radio Critico y tasa de nucleacion\n\\[\n  r^* = \\frac{2 \\sigma_s}{\\rho |\\Delta \\mu|}\n\\]\nRelacionado con la tasa de nucleaion\n\\[\n  \\varphi = \\kappa \\alpha^* \\times N^*\n\\]\n\n\\(N^*\\): Densidad de nucleos\n\\(\\alpha^*\\): Tasa de captura de 1 atomo"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#tasa-de-nucleacion",
+    "href": "presentations/quesnel_nucleation.html#tasa-de-nucleacion",
+    "title": "Presentations",
+    "section": "Tasa de nucleacion",
+    "text": "Tasa de nucleacion\n\\[\n  N^* = N_{Cu} \\exp{-\\Delta G(r^*)/kT}\n\\]\ndonde:\n\n\\(\\Delta G(r^*) = \\frac{4 \\pi r^{*2} \\sigma_s}{3}\\)\n\\(\\alpha^* = 4\\pi r^{*2} \\frac{P_{Cu}}{\\sqrt{2\\pi mkT}}\\)\n\\(\\kappa = \\sqrt{\\frac{\\Delta\\mu}{6\\pi kTr^*}}\\) quedando la tasa de nucleacion como:\n\n\\[\n  \\varphi(T) = \\left(\\frac{P_{Cu}}{kT}\\right)^2 \\left(\\frac{2 \\sigma_s^{1/2}}{\\rho \\sqrt{2\\pi m_{Cu}}}\\right) \\exp\\left[\\frac{-16\\pi\\sigma_s^3}{3\\rho^2 k^3 T^3 \\left(\\ln{\\frac{P}{P_s}}\\right)^2}\\right]\n\\]"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#perfil-de-temperatura",
+    "href": "presentations/quesnel_nucleation.html#perfil-de-temperatura",
+    "title": "Presentations",
+    "section": "Perfil de temperatura",
+    "text": "Perfil de temperatura\n\\[\n  N(x) = t(x) [T(x)]\n\\]"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#crecimiento-de-nps",
+    "href": "presentations/quesnel_nucleation.html#crecimiento-de-nps",
+    "title": "Presentations",
+    "section": "Crecimiento de NPs",
+    "text": "Crecimiento de NPs\nConsideraciones:\n\nColisiones sucesivas\nAbsorcion de solo atomos\nProbabilidad de absorcion 100%\n\nTasa de probabilidad de interaccion: \\[\n  A_n = \\pi r_s^2 N_{Cu} \\left(\\frac{8kT}{\\pi m_{Cu}}\\right)^{1/2} n^{1/6}\n\\]"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#distribucion",
+    "href": "presentations/quesnel_nucleation.html#distribucion",
+    "title": "Presentations",
+    "section": "Distribucion",
+    "text": "Distribucion\n\\[\n\\begin{align*}\n  \\frac{dP_0(t)}{dt} = -A_0(t) P_0(t) \\\\\n  \\frac{dP_1(t)}{dt} = A_0(t) P_0(t) - A_1(t) P_1(t) \\\\\n  \\frac{dP_n(t)}{dt} = A_{n-1}(t) P_{n-1}(t) - A_nP_n(t) \\\\\n\\end{align*}\n\\]\nCondiciones iniciales:\n\n\\(P_0(0)=1\\)\n\\(P_n(0)=0\\) para \\(n&gt;0\\)\n\nSolucion, distribucion de Poisson \\[\n  P_n(t) = \\left(\\frac{1}{n!}\\right) (A_0 t)^n e^{-A_0 t}\n\\]"
+  },
+  {
+    "objectID": "presentations/quesnel_nucleation.html#experimento-vs-teorico",
+    "href": "presentations/quesnel_nucleation.html#experimento-vs-teorico",
+    "title": "Presentations",
+    "section": "Experimento vs Teorico",
+    "text": "Experimento vs Teorico"
   }
 ]

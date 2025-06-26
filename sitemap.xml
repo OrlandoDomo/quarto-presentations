@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://OrlandoDomo.github.io/quarto-presentations/presentations/saf_skyrmions.html</loc>
-    <lastmod>2025-06-04T04:29:28.468Z</lastmod>
-  </url>
-  <url>
     <loc>https://OrlandoDomo.github.io/quarto-presentations/index.html</loc>
-    <lastmod>2025-06-04T04:29:28.468Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OrlandoDomo.github.io/quarto-presentations/about.html</loc>
-    <lastmod>2025-06-04T04:29:28.462Z</lastmod>
+    <lastmod>2025-06-26T02:39:17.298Z</lastmod>
   </url>
   <url>
     <loc>https://OrlandoDomo.github.io/quarto-presentations/presentations/sputtering_nucleation.html</loc>
-    <lastmod>2025-06-04T04:29:28.468Z</lastmod>
+    <lastmod>2025-06-26T02:39:17.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OrlandoDomo.github.io/quarto-presentations/about.html</loc>
+    <lastmod>2025-06-26T02:39:17.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OrlandoDomo.github.io/quarto-presentations/presentations/saf_skyrmions.html</loc>
+    <lastmod>2025-06-26T02:39:17.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OrlandoDomo.github.io/quarto-presentations/presentations/quesnel_nucleation.html</loc>
+    <lastmod>2025-06-26T02:39:17.298Z</lastmod>
   </url>
 </urlset>
