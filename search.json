@@ -7,6 +7,62 @@
     "text": "Slides\nSome presentations made with Quarto using reveal.js:\n\nSAF Skyrmions simulations"
   },
   {
+    "objectID": "presentations/saf_skyrmions.html#nucleation-title",
+    "href": "presentations/saf_skyrmions.html#nucleation-title",
+    "title": "Presentations",
+    "section": "",
+    "text": "Estabilidad magnetica reversible en estructuras SAF\n\n\nOrlando Dolores Morales"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#estructuras-saf",
+    "href": "presentations/saf_skyrmions.html#estructuras-saf",
+    "title": "Presentations",
+    "section": "Estructuras SAF",
+    "text": "Estructuras SAF\n2 capas ferromagneticas separadas por una capa metalica no magnetica"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#configuracion-geometrica",
+    "href": "presentations/saf_skyrmions.html#configuracion-geometrica",
+    "title": "Presentations",
+    "section": "Configuracion geometrica",
+    "text": "Configuracion geometrica\n\nConfiguracion geometrica:\n\n\\(D = 300\\) nm\nCelda: \\(3\\times 3\\times 0.8 \\text{nm}^3\\)\nSpacer: 0.8 nm\nEspesor de las capas: 8 nm"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#magnetizacion-inicial",
+    "href": "presentations/saf_skyrmions.html#magnetizacion-inicial",
+    "title": "Presentations",
+    "section": "Magnetizacion inicial",
+    "text": "Magnetizacion inicial\n\nMagnetizacion inicial:\n\n\\(M_s = 260\\) kA/m"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#energias",
+    "href": "presentations/saf_skyrmions.html#energias",
+    "title": "Presentations",
+    "section": "Energias",
+    "text": "Energias\n\nTerminos de Energia:\n\nIntercambio (\\(E_x\\))\nAnisotropia (\\(E_k\\))\nDemagnetizacion (\\(E_{demag}\\))\nDMI (\\(E_{DMI}\\))\nRKKY (\\(E_{RKKY}\\))\n\n\\[\n  E = -A \\bf{m} \\cdot \\nabla^2 \\bf{m}  - K (\\bf{m}\\cdot\\bf{u})^2 - \\frac{1}{2} \\mu_0 M_s \\bf{m}\\cdot\\bf{H}_d + E_{RKKY} + E_{DMI}\n\\]"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#energia-dmi-y-rkky",
+    "href": "presentations/saf_skyrmions.html#energia-dmi-y-rkky",
+    "title": "Presentations",
+    "section": "Energia DMI y RKKY",
+    "text": "Energia DMI y RKKY\n\n\nFavorecimiento del rompimiento de simetria y “canteado” de los spin vecinos: \\[\nE_{DMI} = D [m_z (\\nabla\\cdot\\bf{m}) - (\\bf{m}\\cdot\\nabla)m_z]\n\\]\nAcople mediante la capa no magnetica \\[\nE_{RKKY} = \\frac{\\sigma [1 - m_i \\cdot m_j] + \\sigma_2 [1 - (m_i \\cdot m_j)^2]}{\\Delta_{ij}}\n\\]"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#parametros-iniciales",
+    "href": "presentations/saf_skyrmions.html#parametros-iniciales",
+    "title": "Presentations",
+    "section": "Parametros iniciales",
+    "text": "Parametros iniciales\n\nParametros a usar para la simulacion\n\n\\(A = 1\\times 10^{-11}\\) J/m\n\\(K = 0.1\\times 10^{7}\\) J/m\\(^3\\)\n\\(\\sigma = -0.3\\times 10^{-11}\\) J/m\\(^2\\)\n\\(D = 0.5; 1\\times 10^{-3}\\) J/m\\(^2\\)"
+  },
+  {
+    "objectID": "presentations/saf_skyrmions.html#simulacion",
+    "href": "presentations/saf_skyrmions.html#simulacion",
+    "title": "Presentations",
+    "section": "Simulacion",
+    "text": "Simulacion\n\nSoftware usado es UberMag y se estabiliza el sistem mediante la relajacion de energia. Ver simulacion"
+  },
+  {
     "objectID": "presentations/sputtering_nucleation.html#nucleation-title",
     "href": "presentations/sputtering_nucleation.html#nucleation-title",
     "title": "Presentations",
@@ -68,41 +124,6 @@
     "title": "Presentations",
     "section": "Balanceo de Fuerzas",
     "text": "Balanceo de Fuerzas"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#initial-configuration",
-    "href": "presentations/saf_skyrmions.html#initial-configuration",
-    "title": "Presentations",
-    "section": "Initial Configuration",
-    "text": "Initial Configuration\n\nInitial mesh configuration for the SAF structure.\n\n\\(D = 300\\) nm"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#magnetisation",
-    "href": "presentations/saf_skyrmions.html#magnetisation",
-    "title": "Presentations",
-    "section": "Magnetisation",
-    "text": "Magnetisation\n\nInitial state for the magnetisation"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#skyrmions",
-    "href": "presentations/saf_skyrmions.html#skyrmions",
-    "title": "Presentations",
-    "section": "Skyrmions",
-    "text": "Skyrmions\n\nAfter simulating we obtain the skyrmion"
-  },
-  {
-    "objectID": "presentations/saf_skyrmions.html#simulations",
-    "href": "presentations/saf_skyrmions.html#simulations",
-    "title": "Presentations",
-    "section": "Simulations",
-    "text": "Simulations\nThe initial simulation can be found here"
   },
   {
     "objectID": "presentations/quesnel_nucleation.html#nucleation-title",
@@ -173,5 +194,12 @@
     "title": "Presentations",
     "section": "Experimento vs Teorico",
     "text": "Experimento vs Teorico"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
